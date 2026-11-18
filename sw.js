@@ -1,5 +1,5 @@
 /* PEWS-spell service worker — cache-first, so the app opens with no network at all. */
-var CACHE = 'pews-spell-1.2.1-7b48d136';
+var CACHE = 'pews-spell-1.3.1-4bb23748';
 var ASSETS = [
   "./",
   "index.html",
